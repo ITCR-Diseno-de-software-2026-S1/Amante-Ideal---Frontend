@@ -1,5 +1,5 @@
-import CrearAmante from "./components/CrearAmante";
-import BuscarAmantes from "./components/BuscarAmantes";
+import CrearAmante from "./components/crearAmante";
+import BuscarAmantes from "./components/buscarAmantes";
 
 function App() {
   return (
